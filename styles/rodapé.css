@@ -7,7 +7,7 @@ hr {
     padding: 1em;
 }
 
-.lista-rodapé {
+.lista-rodapé, .lista-rodapé__titulo, .lista-rodapé__item {
     display: none;
 }
 
